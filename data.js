@@ -139,7 +139,7 @@ app.controller("myAppController", function ($scope, $window) {
 		}, {
 			name: 'telegram',
 			class: 'bx bxl-telegram',
-			href: 'https://t.me/Amansaxena106',
+			href: 'https://telegram.me/Amansaxena106',
 		}
 	];
 
