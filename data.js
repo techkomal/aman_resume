@@ -155,7 +155,7 @@ app.controller("myAppController", function ($scope, $window) {
 			
 		}, {
 			name: 'Venue Automation',
-			type: 'App',
+			type: 'web',
 			discription: 'Book a venue online using this application.',
 			platForm: 'Servlet, JSP, Html, Oracle',
 			rolePlayed: 'Back End Developer',
@@ -166,6 +166,13 @@ app.controller("myAppController", function ($scope, $window) {
 			discription: 'help travellers to find all services in one Application.',
 			platForm: '.Net, EF-Core, MsSql',
 			rolePlayed: 'Scrum master',
+			filter: 'web'
+		}, {
+			name: 'Monila Healthcare',
+			type: 'Web',
+			discription: 'US Based Healthcare project.',
+			platForm: 'ASP.Net, EF-Core, MSSql, SSMS, SSIS',
+			rolePlayed: 'Backend Developer',
 			filter: 'web'
 		}
 	]
