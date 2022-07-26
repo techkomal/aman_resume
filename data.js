@@ -142,77 +142,40 @@ app.controller("myAppController", function ($scope, $window) {
 		}
 	];
 
-	$scope.recommendations = [
-		{
-			name: 'Pratibha Singh',
-			message: 'Worked for a few months only, but came to know him personally and professionally in both ways. Professionally good team player, and help and respect everyone. Personally, Deepak is full of life & wants to achieve the good heights in his career. Honest and integrity work as synonym for him.'
-		}, {
-			name: 'Shreenath Chaurasia',
-			message: 'Deepak is very dedicated and punctual. His contribution to his work is always remarkable. he is a stand-alone champion and while working with the team his performance got increased even more. His work quality will always makes him a key member of the team.'
-		}, {
-			name: 'Kalid Moin',
-			message: 'Deepak is always looking to learn new Technologies, He is a Quick learner.'
-		}, {
-			name: 'Pallavi Gupta',
-			message: "Deepak is an extremely hardworking, smart, competent, and diligent co-worker. He also has high levels of energy and productivity. He is a smart engineer who can come up to speed on new technologies quickly and start being effective from the get-go. It's a pleasure to work with him."
-		}, {
-			name: 'Adil Osama Rasheed',
-			message: 'Deepak has been an exceptional developer. He holds strong command on cutting edge technologies. He is always keen to take challenges and love to work on new technologies. I wish him best of luck for all his future endeavours.'
-		}, {
-			name: 'Ankita Vaish',
-			message: 'Deepak is a very focussed, calm, and committed team member who makes a great addition to any environment he works in. A confident and friendly member. He is an expert in his technical fields and delivers the work on time. Deepak is popular with his colleagues and clients alike and has a real passion and enthusiasm for the industry that shines through. I would highly recommend him.'
-		},
-	];
 
 	$scope.links = [
 		{
 			name: 'twitter',
 			class: 'bx bxl-twitter',
-			href: 'https://twitter.com/DeepakjustD'
+			href: 'https://twitter.com/amansaxena606'
 		}, {
 			name: 'instagram',
 			class: 'bx bxl-instagram',
-			href: 'https://www.instagram.com/_.just_d._/'
+			href: 'https://www.instagram.com/amansaxena606'
 		}, {
 			name: 'linkedin',
 			class: 'bx bxl-linkedin',
-			href: 'https://www.linkedin.com/in/deepakkumar88/'
+			href: 'https://www.linkedin.com/in/aman-saxena-82a18a191'
 		}, {
 			name: 'github',
 			class: 'bx bxl-github',
-			href: 'https://github.com/tech-deepak'
+			href: 'https://github.com/aman-saxena'
 		}, {
 			name: 'facebook',
 			class: 'bx bxl-facebook',
-			href: 'https://www.facebook.com/deepakjustd/'
-		}, {
-			name: 'youtube',
-			class: 'bx bxl-youtube',
-			href: 'https://www.youtube.com/channel/UCyVulQQhax-EqRyTrEwZuvQ'
+			href: 'https://www.facebook.com/profile.php?id=100007731043032'
 		}, {
 			name: 'google',
 			class: 'bx bxl-google',
-			href: 'mailto:amansaxena606@gmail.com.com'
+			href: 'mailto:amansaxena606@gmail.com'
 		}, {
 			name: 'whatsapp',
 			class: 'bx bxl-whatsapp',
 			href: 'https://wa.me/+918299115606'
 		}, {
-			name: 'dev-to',
-			class: 'bx bxl-dev-to',
-			href: 'https://dev.to/deepakjustd'
-		}, {
 			name: 'telegram',
 			class: 'bx bxl-telegram',
-			href: 'https://telegram.me/justdeepakkumar',
-		}, {
-			name: 'reddit',
-			class: 'bx bxl-reddit',
-			href: 'https://reddit.com/u/deepakjustd'
-		}, {
-			name: 'spotify',
-			class: 'bx bxl-spotify',
-			href: 'https://open.spotify.com/user/31bfhdwq52tvay7znulzhihwg3ae'
+			href: 'https://telegram.me/amansaxena',
 		}
 	];
 
