@@ -111,11 +111,11 @@ app.controller("myAppController", function ($scope, $window) {
 		{
 			name: 'twitter',
 			class: 'bx bxl-twitter',
-			href: 'https://twitter.com/amansaxena606'
+			href: 'https://twitter.com/'
 		}, {
 			name: 'instagram',
 			class: 'bx bxl-instagram',
-			href: 'https://www.instagram.com/amansaxena606'
+			href: 'https://www.instagram.com/'
 		}, {
 			name: 'linkedin',
 			class: 'bx bxl-linkedin',
