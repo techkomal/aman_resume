@@ -46,72 +46,32 @@ app.controller("myAppController", function ($scope, $window) {
 			title: 'Internship Program',
 			imageUrl_small: 'assets/certificates/small/Internship.jpg',
 			imageUrl: 'assets/certificates/Internship.jpg',
+		}, {
+			title: 'Certificate of participation',
+			imageUrl_small: 'assets/certificates/small/IMG-20220726-WA0012.jpg',
+			imageUrl: 'assets/certificates/IMG-20220726-WA0012.jpg',
+		}, {
+			title: 'Certificate of JSP and Servlet',
+			imageUrl_small: 'assets/certificates/small/IMG-20220726-WA0013.jpg',
+			imageUrl: 'assets/certificates/IMG-20220726-WA0013.jpg',
+		}, {
+			title: 'Hackerank Certificate on Python Basic',
+			imageUrl_small: 'assets/certificates/small/Screenshot 2022-07-26 163944.png',
+			imageUrl: 'assets/certificates/Screenshot 2022-07-26 163944.png',
+		}, {
+			title: 'Hackerank Certificate on Problem Solving',
+			imageUrl_small: 'assets/certificates/small/Screenshot 2022-07-26 164300.png',
+			imageUrl: 'assets/certificates/Screenshot 2022-07-26 164300.png',
+		}, {
+			title: 'High School Marksheet',
+			imageUrl_small: 'assets/certificates/small/IMG-20220726-WA0009.jpg',
+			imageUrl: 'assets/certificates/IMG-20220726-WA0009.jpg',
+		}, {
+			title: 'Intermediate Marksheet',
+			imageUrl_small: 'assets/certificates/small/IMG-20220726-WA0010.jpg',
+			imageUrl: 'assets/certificates/IMG-20220726-WA0010.jpg',
 		}
-		//  {
-		// 	title: 'Star Team Award (SuperOne)',
-		// 	imageUrl_small: 'assets/certificates/small/w3villa_star_team.jpg',
-		// 	imageUrl: 'assets/certificates/w3villa_star_team.jpg',
-		// }, {
-		// 	title: 'Advance Diploma In Computer Application',
-		// 	imageUrl_small: 'assets/certificates/small/data_expert_computer_diploma.jpg',
-		// 	imageUrl: 'assets/certificates/data_expert_computer_diploma.jpg',
-		// }, {
-		// 	title: 'Course On Computer Concepts',
-		// 	imageUrl_small: 'assets/certificates/small/ccc.jpg',
-		// 	imageUrl: 'assets/certificates/ccc.jpg',
-		// }, {
-		// 	title: 'B.tech Degree',
-		// 	imageUrl_small: 'assets/certificates/small/btech-degree.jpg',
-		// 	imageUrl: 'assets/certificates/btech-degree.jpg',
-		// }, {
-		// 	title: 'e.Soft Connect Certificate',
-		// 	imageUrl_small: 'assets/certificates/small/e_soft_project.jpg',
-		// 	imageUrl: 'assets/certificates/e_soft_project.jpg',
-		// }, {
-		// 	title: 'MyGov, Doordarshan Certificate',
-		// 	imageUrl_small: 'assets/certificates/small/government_meri_ganga.jpg',
-		// 	imageUrl: 'assets/certificates/government_meri_ganga.jpg',
-		// }, {
-		// 	title: 'Certificate Of Honor',
-		// 	imageUrl_small: 'assets/certificates/small/hindustan_education_fare.jpg',
-		// 	imageUrl: 'assets/certificates/hindustan_education_fare.jpg',
-		// }, {
-		// 	title: 'Cyber Security Awareness Program',
-		// 	imageUrl_small: 'assets/certificates/small/innovation_indeas_infotech_cyber_security.jpg',
-		// 	imageUrl: 'assets/certificates/innovation_indeas_infotech_cyber_security.jpg',
-		// }, {
-		// 	title: 'MPEC Dance Competition',
-		// 	imageUrl_small: 'assets/certificates/small/mpec_dance_competition.jpg',
-		// 	imageUrl: 'assets/certificates/mpec_dance_competition.jpg',
-		// }, {
-		// 	title: 'Diploma In Computer Hardware',
-		// 	imageUrl_small: 'assets/certificates/small/omitech.jpg',
-		// 	imageUrl: 'assets/certificates/omitech.jpg',
-		// }, {
-		// 	title: 'Android Application Training Certificate',
-		// 	imageUrl_small: 'assets/certificates/small/shreyanshi_consultancy_android.jpg',
-		// 	imageUrl: 'assets/certificates/shreyanshi_consultancy_android.jpg',
-		// }, {
-		// 	title: 'WorkShop On Python',
-		// 	imageUrl_small: 'assets/certificates/small/softpro_india_python.jpg',
-		// 	imageUrl: 'assets/certificates/softpro_india_python.jpg',
-		// }, {
-		// 	title: 'Gold Medal In Taekwondo State Level Competition',
-		// 	imageUrl_small: 'assets/certificates/small/taekwondo.jpg',
-		// 	imageUrl: 'assets/certificates/taekwondo.jpg',
-		// }, {
-		// 	title: 'HTML5 Workshop Certificate',
-		// 	imageUrl_small: 'assets/certificates/small/talentedge_html5.jpg',
-		// 	imageUrl: 'assets/certificates/talentedge_html5.jpg',
-		// }, {
-		// 	title: 'Certification Of Appreciation',
-		// 	imageUrl_small: 'assets/certificates/small/w3villa_appreciation_april_june.jpg',
-		// 	imageUrl: 'assets/certificates/w3villa_appreciation_april_june.jpg',
-		// }, {
-		// 	title: 'Certification Of Appreciation',
-		// 	imageUrl_small: 'assets/certificates/small/w3villa_appreciation_january_march.jpg',
-		// 	imageUrl: 'assets/certificates/w3villa_appreciation_january_march.jpg',
-		// }
+		
 	];
 
 	$scope.educations = [
