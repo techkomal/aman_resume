@@ -21,14 +21,13 @@ app.controller("myAppController", function ($scope, $window) {
 		{ name: 'C#', performance: 90 },
 		{ name: 'Python', performance: 90 },
 		{ name: 'Core Java', performance: 90 },
-		{ name: 'CSS', performance: 90 },
-		{ name: 'HTML', performance: 90 },
-		{ name: '.NET Core', performance: 80 },
-		{ name: 'EF-Core', performance: 90 },
-		{ name: 'SSMS', performance: 80 },
-		{ name: 'MS-SQL', performance: 50 },
-		{ name: 'SSIS', performance: 60 }
-		
+		{ name: 'ASP.NET Core', performance: 80 },
+		{ name: 'EF-Core', performance: 80 },
+		{ name: 'SSMS', performance: 90 },
+		{ name: 'MS-SQL', performance: 90 },
+		{ name: 'SSIS', performance: 70 },
+		{ name: 'CSS', performance: 70 },
+		{ name: 'HTML', performance: 70 },
 	];
 
 	$scope.achievements = [
