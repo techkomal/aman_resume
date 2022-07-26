@@ -70,6 +70,10 @@ app.controller("myAppController", function ($scope, $window) {
 			title: 'Intermediate Marksheet',
 			imageUrl_small: 'assets/certificates/small/IMG-20220726-WA0010.jpg',
 			imageUrl: 'assets/certificates/IMG-20220726-WA0010.jpg',
+		}, {
+			title: 'B.Tech Degree',
+			imageUrl_small: 'assets/certificates/small/IMG-20220726-WA0014.jpg',
+			imageUrl: 'assets/certificates/IMG-20220726-WA0014.jpg',
 		}
 		
 	];
@@ -135,7 +139,7 @@ app.controller("myAppController", function ($scope, $window) {
 		}, {
 			name: 'telegram',
 			class: 'bx bxl-telegram',
-			href: 'https://telegram.me/amansaxena',
+			href: 'https://telegram.me/Amansaxena106',
 		}
 	];
 
