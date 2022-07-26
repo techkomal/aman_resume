@@ -14,7 +14,7 @@ app.controller("myAppController", function ($scope, $window) {
 	$scope.location = 'Kanpur, U.P. INDIA';
 	$scope.age = getAge($scope.dob);
 	$scope.degree = 'Bachelor of Technology';
-	$scope.email = 'amansaxena606@gmail.com';
+	$scope.email = 'amansaxena106@gmail.com';
 	$scope.summary = 'ASP.NET Developer || C# and PYTHON Developer || CORE JAVA, SSMS, EF-CORE, SSIS';
 
 	$scope.skills = [
@@ -31,13 +31,15 @@ app.controller("myAppController", function ($scope, $window) {
 	];
 
 	$scope.achievements = [
+		{ paragraph: 'Top performer in infosys Internship.' },
+		{ paragraph: 'I have trained in Java technology with A grade(Outstanding Performer) along with Live Project.' },
+		{ paragraph: '5 Star coder in Python Basics in HackerRank Platform. https://www.hackerrank.com/certificates/0b7b394a0822' },
+		{ paragraph: '5 Star coder in Problem Solving using Python in HackerRank Platform. https://www.hackerrank.com/certificates/af45ab6bfa25' },
 		{ paragraph: 'Co-ordinated an event “ALGO-WAR” in Ignitia 2018.' },
 		{ paragraph: 'Represented PSIT FOOTBALL TEAM and branch team (CSE) in Zonal level tournament' },
 		{ paragraph: 'Awarded a certificate for ‘Best Student’ in Sanskriti Gyan Pariksha in class 8th and 12th.' },
 		{ paragraph: '96% in Physics and Chemistry and 98% in Mathematics in Intermediate.' },
-		{ paragraph: 'Attained 1st place in Interhouse Debate Competition in 8th class.' },
-		{ paragraph: '5 Star coder in Python Basics in HackerRank Platform. https://www.hackerrank.com/certificates/0b7b394a0822' },
-		{ paragraph: '5 Star coder in Problem Solving using Python in HackerRank Platform. https://www.hackerrank.com/certificates/af45ab6bfa25' },
+		{ paragraph: 'Attained 1st place in Interhouse Debate Competition in 8th class.' }
 	];
 
 	$scope.certifications = [
@@ -82,17 +84,17 @@ app.controller("myAppController", function ($scope, $window) {
 			name: 'Bachelor of Technology',
 			duration: '2016-2020',
 			college: 'Pranveer Singh Institute of Technology, Kanpur', 
-			message: 'I completed my graduation from here. and scored first division with 75%. also got placement from here in Infosys Company.'
+			message: 'I have completed my graduation from here. and scored first division with 79.5%. also got placement from here in Infosys Company.'
 		}, {
 			name: 'Intermediate',
 			duration: '2015-2016',
 			college: 'N.L.K.V.M. Inter College, Kanpur',
-			message: 'I completed my Intermediate Education form here and scored first division with 92%.'
+			message: 'I have completed my Intermediate Education form here and scored first division with 92%.'
 		}, {
 			name: 'High School',
 			duration: '2013-2014',
 			college: 'N.L.K.V.M. Inter College, Kanpur',
-			message: 'I completed my High School Education form here and scored first division with 85.5%.'
+			message: 'I have completed my High School Education form here and scored first division with 85.5%.'
 		},
 	];
 
@@ -101,7 +103,7 @@ app.controller("myAppController", function ($scope, $window) {
 			company: 'Infosys Limited.',
 			duration: 'Feb 2020 - present',
 			destination: 'Senior System Engineer',
-			message: 'I am working here as a System Engineer and working on mainly on ASP.NET.'
+			message: 'I am working here as a Senior System Engineer and working on ASP.NET.'
 		}
 	];
 
@@ -130,7 +132,7 @@ app.controller("myAppController", function ($scope, $window) {
 		}, {
 			name: 'google',
 			class: 'bx bxl-google',
-			href: 'mailto:amansaxena606@gmail.com'
+			href: 'mailto:amansaxena106@gmail.com'
 		}, {
 			name: 'whatsapp',
 			class: 'bx bxl-whatsapp',
@@ -149,7 +151,7 @@ app.controller("myAppController", function ($scope, $window) {
 			discription: 'Online learning web-app for students in their studies',
 			platForm: 'Servlet, JSP, Html, Oracle',
 			rolePlayed: 'Front End Developer',
-			filter: 'app'
+			filter: 'web'
 			
 		}, {
 			name: 'Venue Automation',
@@ -157,7 +159,7 @@ app.controller("myAppController", function ($scope, $window) {
 			discription: 'Book a venue online using this application.',
 			platForm: 'Servlet, JSP, Html, Oracle',
 			rolePlayed: 'Back End Developer',
-			filter: 'app'
+			filter: 'web'
 		}, {
 			name: 'Travel Buddy',
 			type: 'Web',
